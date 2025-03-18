@@ -5,4 +5,6 @@ if __name__ == "__main__":
     main()
 
 def nova_funkcija():
-    return "Ovo je nova funkcija."
+    return "Ovo je nova funkcija."ž
+
+# Ovo je moj komentar - Roko Mirkovic
